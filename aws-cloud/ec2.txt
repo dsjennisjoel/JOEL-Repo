@@ -1,0 +1,1 @@
+ creating the ec2 instanct in the cloud server
