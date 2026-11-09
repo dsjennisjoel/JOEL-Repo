@@ -1,1 +1,3 @@
  creating the ec2 instanct in the cloud server
+ increasing the processer for more performance of the instance
+ 
