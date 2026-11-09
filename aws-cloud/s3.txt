@@ -1,1 +1,0 @@
-creating and rent the bucket for storing the database and secure the resource for furture usage 
